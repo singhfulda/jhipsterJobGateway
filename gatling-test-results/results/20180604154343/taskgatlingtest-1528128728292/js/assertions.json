@@ -1,0 +1,10 @@
+{
+  "simulation": "TaskGatlingTest",
+  "simulationId": "taskgatlingtest",
+  "start": 1528128728292,
+  "description": "null",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}

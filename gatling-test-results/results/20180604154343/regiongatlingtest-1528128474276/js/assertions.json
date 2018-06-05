@@ -1,0 +1,10 @@
+{
+  "simulation": "RegionGatlingTest",
+  "simulationId": "regiongatlingtest",
+  "start": 1528128474276,
+  "description": "null",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}

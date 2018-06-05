@@ -1,0 +1,10 @@
+{
+  "simulation": "CountryGatlingTest",
+  "simulationId": "countrygatlingtest",
+  "start": 1528127035657,
+  "description": "null",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}
